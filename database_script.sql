@@ -21,7 +21,7 @@ INSERT INTO test.USER (name, age, is_admin, created_date) VALUES
 ('Willis Jenkins', 64, 0, NOW()),
 ('Maximillian Price', 19, 0, NOW()),
 ('Natalie Boone', 28, 1, NOW()),
-('Kelley Lang', 23, 0, NOW()),user
+('Kelley Lang', 23, 0, NOW()),
 ('Jacob Pitts', 24, 0, NOW()),
 ('Edward Gilmore', 25, 0, NOW()),
 ('Peter Fisher', 23, 0, NOW()),
